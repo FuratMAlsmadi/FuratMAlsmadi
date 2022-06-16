@@ -15,4 +15,4 @@ Python, Django, Javascript, HTML, CSS, SQL
 
 
 ## 📚 Books I'm currently reading 
-[![Data Structures and Algorithms in Python]](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/ref=sr_1_2?crid=3PKCK9LMM4HNA&keywords=data+structures+and+algorithms+in+python&qid=1655382486&sprefix=Data+Structures+and+Algorithms+in+%2Caps%2C248&sr=8-2)
+[Data Structures and Algorithms in Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/ref=sr_1_2?crid=3PKCK9LMM4HNA&keywords=data+structures+and+algorithms+in+python&qid=1655382486&sprefix=Data+Structures+and+Algorithms+in+%2Caps%2C248&sr=8-2)
