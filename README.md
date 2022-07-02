@@ -19,5 +19,5 @@ Python, Django, Javascript, HTML, CSS, SQL
 
 
 ## 👨‍🎓 Courses I'm currently taking 
-[Understanding HTML and CSS](https://www.udemy.com/course/understanding-html-and-css/)
+[Understanding HTML and CSS](https://www.udemy.com/course/understanding-html-and-css/) \
 [Meta Back-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer)
