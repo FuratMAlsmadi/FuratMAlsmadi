@@ -12,6 +12,7 @@ Python, Django, Javascript, HTML, CSS, SQL
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furat-alsmadi/)
+[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/furatmalsmadi)
 
 
 ## 📚 Books I'm currently reading 
