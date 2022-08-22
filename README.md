@@ -3,7 +3,9 @@
 
 
 ## 🚀 About Me
-I'm a full stack developer based in Jordan
+Fullstack engineer with primary backend focus. Proficient in Python, JavaScript, SQL. 
+Has experience in Django, ReactJS, nodeJS and I’m able to get up and running with any framework,
+as I’m solid with programming logic, paradigms and patterns.
 
 
 ## 🛠 Skills
